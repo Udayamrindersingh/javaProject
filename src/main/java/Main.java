@@ -8,15 +8,10 @@ public class Main {
         System.out.println("Dowloaded the project from Uday")
         System.out.println("Added By Rajitha")
         System.out.println("Hema added one more change");
+        System.out.println("Hema added some changes");
+        System.out.println("Hema learning Git");
 
 
-
-
-
-=======
->>>>>>> 07d82f05eb142d993eeca1521c84396d71bf9320
-=======
->>>>>>> 905c4941b02eb66fd61d13a60e8f37fa30738c58
     }
 
 
